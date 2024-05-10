@@ -1,0 +1,16 @@
+C:\Users\Bayan\source\repos\WinFormsApp7 sedra\WinFormsApp7 sedra\bin\Debug\net8.0-windows\WinFormsApp7 sedra.exe
+C:\Users\Bayan\source\repos\WinFormsApp7 sedra\WinFormsApp7 sedra\bin\Debug\net8.0-windows\WinFormsApp7 sedra.deps.json
+C:\Users\Bayan\source\repos\WinFormsApp7 sedra\WinFormsApp7 sedra\bin\Debug\net8.0-windows\WinFormsApp7 sedra.runtimeconfig.json
+C:\Users\Bayan\source\repos\WinFormsApp7 sedra\WinFormsApp7 sedra\bin\Debug\net8.0-windows\WinFormsApp7 sedra.dll
+C:\Users\Bayan\source\repos\WinFormsApp7 sedra\WinFormsApp7 sedra\bin\Debug\net8.0-windows\WinFormsApp7 sedra.pdb
+C:\Users\Bayan\source\repos\WinFormsApp7 sedra\WinFormsApp7 sedra\obj\Debug\net8.0-windows\WinFormsApp7_sedra.Form1.resources
+C:\Users\Bayan\source\repos\WinFormsApp7 sedra\WinFormsApp7 sedra\obj\Debug\net8.0-windows\WinFormsApp7 sedra.csproj.GenerateResource.cache
+C:\Users\Bayan\source\repos\WinFormsApp7 sedra\WinFormsApp7 sedra\obj\Debug\net8.0-windows\WinFormsApp7 sedra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bayan\source\repos\WinFormsApp7 sedra\WinFormsApp7 sedra\obj\Debug\net8.0-windows\WinFormsApp7 sedra.AssemblyInfoInputs.cache
+C:\Users\Bayan\source\repos\WinFormsApp7 sedra\WinFormsApp7 sedra\obj\Debug\net8.0-windows\WinFormsApp7 sedra.AssemblyInfo.cs
+C:\Users\Bayan\source\repos\WinFormsApp7 sedra\WinFormsApp7 sedra\obj\Debug\net8.0-windows\WinFormsApp7 sedra.csproj.CoreCompileInputs.cache
+C:\Users\Bayan\source\repos\WinFormsApp7 sedra\WinFormsApp7 sedra\obj\Debug\net8.0-windows\WinFormsApp7 sedra.dll
+C:\Users\Bayan\source\repos\WinFormsApp7 sedra\WinFormsApp7 sedra\obj\Debug\net8.0-windows\refint\WinFormsApp7 sedra.dll
+C:\Users\Bayan\source\repos\WinFormsApp7 sedra\WinFormsApp7 sedra\obj\Debug\net8.0-windows\WinFormsApp7 sedra.pdb
+C:\Users\Bayan\source\repos\WinFormsApp7 sedra\WinFormsApp7 sedra\obj\Debug\net8.0-windows\WinFormsApp7 sedra.genruntimeconfig.cache
+C:\Users\Bayan\source\repos\WinFormsApp7 sedra\WinFormsApp7 sedra\obj\Debug\net8.0-windows\ref\WinFormsApp7 sedra.dll
